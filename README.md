@@ -25,6 +25,7 @@
 <div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true&theme=onedark" alt="iakgoog" />
-  ![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/languages.svg)
 </div>
+
+![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/languages.svg)
