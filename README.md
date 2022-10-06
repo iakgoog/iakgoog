@@ -23,6 +23,6 @@
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakgoog&layout=compact)
