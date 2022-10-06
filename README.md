@@ -22,10 +22,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
   
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true&theme=onedark" alt="iakgoog" />
-</div>
 
-![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/languages.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakgoog&layout=compact)
