@@ -23,7 +23,8 @@
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakgoog" alt="iakgoog" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true&theme=onedark" alt="iakgoog" />
+  ![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/iakgoog/github-stats-transparent/output/generated/languages.svg)
 </div>
