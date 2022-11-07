@@ -22,8 +22,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iakgoog&theme=horizon&border_radius=8)](https://git.io/streak-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakgoog&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakgoog&layout=compact)
